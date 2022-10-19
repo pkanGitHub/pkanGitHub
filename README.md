@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 test
-[Click to Header](header.md)
+[Click to Header](Header.md)
 
 <!--
 **pkanGitHub/pkanGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
