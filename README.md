@@ -4,14 +4,14 @@
 </p>
 <!-- Social badges section -->
 <!-- to be added -->
-<div align="center">
+<p align="center">
 #### About me
 - 🏫 Currently a junior at Mizzou major in IT.
 - 💻 Graduated from Flatiron Bootcamp for Full Stack Software Engineering.
 - 🎮 Games I recently played: Genshin, Stackland
 - 📚 Learning: Python, SwiftUI
 - 🎾 Sports I enjoy: Badminton, Tennis, Ping pong
-</div>
+</p>
   
 ## 🛠️ Experienced with:
 
