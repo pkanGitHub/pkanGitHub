@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, I am Phyllis Kan! 👋 </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Experienced with some%20React/Redux;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=6D4EE9&vCenter=true&size=22&pause=1000"></a>
-</p>
+
 <!-- Social badges section -->
 <!-- to be added -->
 
@@ -11,7 +11,7 @@
 - 🎮 Games I recently played: Genshin, Stackland
 - 📚 Learning: Python, SwiftUI
 - 🎾 Sports I enjoy: Badminton, Tennis, Ping pong
-
+</p>
 
 ## 🛠️ Experienced with:
 
