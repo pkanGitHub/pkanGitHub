@@ -7,7 +7,6 @@
 
 <h2> About me</h2>
 
----
 <p align="center">
 
 - 🏫 Currently a junior at Mizzou major in IT.
@@ -24,7 +23,6 @@
 
 ## 🛠️ Experienced with:
 
----
 ### Frontend
 <p>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
