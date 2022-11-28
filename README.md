@@ -4,15 +4,24 @@
 </p>
 <!-- Social badges section -->
 <!-- to be added -->
+
+<h2> About me</h2>
+
+---
 <p align="center">
-#### About me
+
 - 🏫 Currently a junior at Mizzou major in IT.
+
 - 💻 Graduated from Flatiron Bootcamp for Full Stack Software Engineering.
+
 - 🎮 Games I recently played: Genshin, Stackland
+
 - 📚 Learning: Python, SwiftUI
+
 - 🎾 Sports I enjoy: Badminton, Tennis, Ping pong
 </p>
-  
+<br/>
+
 ## 🛠️ Experienced with:
 
 ---
@@ -37,15 +46,13 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/Mongodb-white.svg?logo=mongodb&logoColor=green"></a>
 </p>
-
+<br/>
 <div align="center">
 <!-- <a href="https://github.com/pkanGitHub/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/pkanGitHub/awesome-github-profile-readme" alt="Pull Requests Badge"/></a> -->
   
 [![Phyllis's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkanGitHub&count_private=true&theme=prussian)](https://github.com/pkanGitHub/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkanGitHub&layout=compact&langs_count=7&hide=PHP&theme=prussian)](https://github.com/pkanGitHub/github-readme-stats) -->
 </div>
-
----
 <!--
 **pkanGitHub/pkanGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [Click to Header](Header.md)
