@@ -48,7 +48,7 @@
 <div align="center">
 <!-- <a href="https://github.com/pkanGitHub/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/pkanGitHub/awesome-github-profile-readme" alt="Pull Requests Badge"/></a> -->
   
-[![Phyllis's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkanGitHub&count_private=true&theme=prussian)](https://github.com/pkanGitHub/github-readme-stats)
+![Phyllis's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkanGitHub&count_private=true&theme=prussian)](https://github.com/pkanGitHub/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkanGitHub&layout=compact&langs_count=7&hide=PHP&theme=prussian)](https://github.com/pkanGitHub/github-readme-stats) -->
 </div>
 <!--
