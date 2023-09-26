@@ -9,7 +9,7 @@
 
 <p align="center">
 
-- 🏫 Currently a junior at Mizzou major in IT.
+- 🏫 Currently a senior at Mizzou major in IT.
 
 - 💻 Graduated from Flatiron Bootcamp for Full Stack Software Engineering.
 
