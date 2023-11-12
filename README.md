@@ -13,7 +13,7 @@
 
 - 💻 Graduated from Flatiron Bootcamp for Full Stack Software Engineering.
 
-- 🎮 Games I recently played: Genshin, Stackland
+- 🎮 Games I played: Dave the Diver, My Little Universe, Genshin, Stackland
 
 - 📚 Learning: Python, SwiftUI
 
