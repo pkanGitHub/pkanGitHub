@@ -15,3 +15,5 @@ Exclude Aki
 Mochi and Hina
 
 <img src="Pets/MochiAndHina2.jpg" title="These were the ones I got when they were 8 weeks old" width="450px" height="450px"/>
+
+[Go back](README.md)
