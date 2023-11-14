@@ -18,6 +18,8 @@
 - 📚 Learning: Python, SwiftUI
 
 - 🎾 Sports I enjoy: Badminton, Tennis, Ping pong
+
+- [click here](MyPets.md) for cute picutures of my pets
 </p>
 <br/>
 
