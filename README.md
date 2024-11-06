@@ -9,7 +9,7 @@
 
 <p align="center">
 
-- 🏫 Graduated from Mizzou major in IT May 2024.
+- 🏫 Graduated from Mizzou major in IT 2024.
 
 - 💻 Graduated from Flatiron Bootcamp for Full Stack Software Engineering.
 
