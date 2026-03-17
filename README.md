@@ -13,11 +13,11 @@
 
 - 💻 Graduated from Flatiron Bootcamp for Full Stack Software Engineering.
 
-- 🎮 Games I played: Dave the Diver, My Little Universe, Genshin, Stackland
+- 🎮 Games I played: Dave the Diver, My Little Universe, Genshin, Stackland, PalWorld
 
 - 📚 Learning: Python, SwiftUI
 
-- 🎾 Sports I enjoy: Badminton, Tennis, Ping pong
+- 🎾 Sports I enjoy: Badminton, Tennis, Ping pong, Pickle Ball
 
 - [click here](MyPets.md) for cute picutures of my pets
 </p>
